@@ -5,7 +5,7 @@
 - ⚙️ Familiar with Python, Bash, Java, C#, and HTML/CSS. Quite rusty though.
 - 🏫 I will be graduating in December with an AAS in Game & Simulation Development: Programming!
 - 🏫 In addition, I'm starting an AS in Computer Science this fall!
-- I started programming on Arduino, Raspberry Pis, Linux, and some Android. It's been a while since I worked in those languages.
+- I started programming on Arduino, Raspberry Pis, Linux, and some Android. It's been a while since I worked on those platforms.
 - 👯 I’m looking to collaborate on projects in UE5.
 - 💬 Ask me about anything!
 - 📫 How to reach me: Instagram or LinkedIn. There are links to my pages on my Github Pages site.
