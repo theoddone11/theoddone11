@@ -1,6 +1,6 @@
  Thanks for visiting! 👋
 
-- 🌱 I’m currently learning game development in Unreal Engine. I have worked on many projects, and I am working on finishing more and uploading them to my Github Pages site. https://theoddone11.github.io/
+- 🌱 I’m currently learning Motion Matching in Unreal Engine 5.4, among other neat features they added  I've worked on many projects in UE5, and I'm working on finishing more and uploading them to my Github Pages site. https://theoddone11.github.io/
 - ⚙️ Fluent in Unreal Blueprints and UE++ (C++). I also enjoy animation and tech art.
 - ⚙️ Familiar with Python, Bash, Java, C#, and HTML/CSS. Quite rusty though.
 - 🏫 I will be graduating in December with an AAS in Game & Simulation Development: Programming!
