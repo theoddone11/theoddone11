@@ -1,6 +1,7 @@
  Thanks for visiting! 👋
 
-- 🌱 I’m currently learning Motion Matching in Unreal Engine 5.4, among other neat features they added  I've worked on many projects in UE5, and I'm working on finishing more and uploading them to my Github Pages site. https://theoddone11.github.io/
+- 🌱 I’m currently working on game project in Unreal Engine 5.5, involving extending the character movement component in c++ for new movement modes, creating layered post process shaders(tried to mod Unreal and dig into shaders in engine. I'm close, but I may not need to do that), and adding new states of animation to the Game Animation Sample(motion matching). 
+    I've worked on many projects in UE5, and I'm working on finishing more and uploading them to my Github Pages site. https://theoddone11.github.io/
 - ⚙️ Fluent in Unreal Blueprints and UE++ (C++). I also enjoy animation and tech art.
 - ⚙️ Familiar with Python, Bash, Java, C#, and HTML/CSS. Quite rusty though.
 - 🏫 I will be graduating in December with an AAS in Game & Simulation Development: Programming!
