@@ -1,7 +1,5 @@
- Thanks for visiting! 👋
+ Currently continuing work on a solo game project as I fill out my portfolio and look for work. Learning GAS now in Unreal Engine, and wow is it a game changer. I've started using AngelScript for programming UE and it's pretty great! Trying to find ideal cel shading is difficult. I'm looking into modding the engine and learning HLSL...
 
-- 🌱 I’m currently working on game project in Unreal Engine 5.5, involving extending the character movement component in c++ for new movement modes, creating layered post process shaders(tried to mod Unreal and dig into shaders in engine. I'm close, but I may not need to do that), and adding new states of animation to the Game Animation Sample(motion matching). 
-    I've worked on many projects in UE5, and I'm working on finishing more and uploading them to my Github Pages site. https://theoddone11.github.io/
 - ⚙️ Fluent in Unreal Blueprints and UE++ (C++). I also enjoy animation and tech art.
 - ⚙️ Familiar with Python, Bash, Java, C#, and HTML/CSS. Quite rusty though.
 - 🏫 I graduated with an AAS in Game & Simulation Development: Programming!
